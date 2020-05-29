@@ -1,0 +1,11 @@
+{
+  "name": "learn_binary_search_algorithm",
+  "version": "1.0.0",
+  "description": "Just demo binary search algorithm",
+  "main": "testManual.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Valentin Agafonov",
+  "license": "ISC"
+}
